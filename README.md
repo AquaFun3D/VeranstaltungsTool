@@ -7,20 +7,20 @@
 4. **Admin-Dashboard**: Verwaltung von Benutzern, Veranstaltungen und Buchungen durch Administratoren.
 
 ### Technologien:
-- **Frontend**: Angular oder React
-- **Backend**: Spring Boot (Java) oder .NET (C#)
+- **Frontend**: Angular
+- **Backend**: Spring Boot
 - **Datenbank**: PostgreSQL
 - **API**: GraphQL
 
 ### Projektstruktur:
 
-#### 1. Frontend (Angular/React)
+#### 1. Frontend (Angular)
 - Erstelle eine Single-Page-Anwendung (SPA) für die Benutzeroberfläche.
 - Implementiere Authentifizierungs- und Autorisierungsmechanismen.
 - Erstelle Komponenten für die Anzeige und Verwaltung von Veranstaltungen und Buchungen.
 - Nutze GraphQL für die Datenabfragen und -mutationen.
 
-#### 2. Backend (Spring Boot/.NET)
+#### 2. Backend (Spring Boot)
 - Implementiere die Benutzerverwaltung, Veranstaltungs- und Buchungslogik.
 - Erstelle ein GraphQL-API, um die Daten für das Frontend bereitzustellen.
 - Nutze PostgreSQL als Datenbank für die Speicherung der Daten.
@@ -33,14 +33,14 @@
    - Skizziere die Architektur des Systems.
 
 2. **Backend-Entwicklung**:
-   - Richte ein neues Projekt mit Spring Boot oder .NET ein.
+   - Richte ein neues Projekt mit Spring Boot.
    - Konfiguriere PostgreSQL als Datenbank.
    - Erstelle Entitäten und Repositorys für Benutzer, Veranstaltungen und Buchungen.
    - Implementiere Services und Controller für die Geschäftslogik.
    - Erstelle ein GraphQL-Schema und implementiere Resolver für die Abfragen und Mutationen.
 
 3. **Frontend-Entwicklung**:
-   - Erstelle ein neues Angular- oder React-Projekt.
+   - Erstelle ein neues Angular-Projekt.
    - Implementiere Authentifizierungs- und Autorisierungslogik.
    - Erstelle Komponenten und Seiten für Registrierung, Anmeldung, Veranstaltungsanzeige und Buchungen.
    - Integriere GraphQL für die Datenkommunikation mit dem Backend.
@@ -62,10 +62,7 @@
 
 ### Lernziele:
 - **Java und Spring Boot**: Backend-Entwicklung, Sicherheitsmechanismen, GraphQL-Integration.
-- **C# und .NET**: Alternativ zum obigen Punkt, Backend-Entwicklung und Integration.
 - **GraphQL**: Aufbau und Nutzung eines GraphQL-APIs.
 - **PostgreSQL**: Datenmodellierung, Abfragen und Verwaltung einer relationalen Datenbank.
-- **Angular/React**: Erstellung moderner, reaktiver Benutzeroberflächen.
+- **Angular**: Erstellung moderner, reaktiver Benutzeroberflächen.
 - **Full-Stack-Entwicklung**: Verstehen und Implementieren der gesamten Architektur einer modernen Webanwendung.
-
-Durch die Umsetzung dieses Projekts wirst Du ein tiefes Verständnis für jede der genannten Technologien entwickeln und Deine Fähigkeiten in der Full-Stack-Entwicklung erheblich verbessern.
